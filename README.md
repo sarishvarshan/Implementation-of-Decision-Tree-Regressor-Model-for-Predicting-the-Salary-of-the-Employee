@@ -25,7 +25,7 @@ RegisterNumber:  212223230196
 ```
 ```
 import pandas as pd
-data=pd.read_csv("C:/Users/admin/Desktop/Salary.csv")
+data=pd.read_csv("C:\Users\giri9\Downloads\Salary.csv")
 data.head()
 ```
 ```
